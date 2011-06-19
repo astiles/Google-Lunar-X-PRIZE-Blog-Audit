@@ -1,0 +1,7 @@
+This is my first Python project (a work in progress!).
+
+The idea is to scrape the website www.googlelunarxprize.org for blog entries by the 29 active teams. These blog entries will then be sorted according to the month that they were posted and the team that posted them. 
+
+I am currently using the RSS feed to pull this information, but will likely experiment with Scrapy soon to practice writing a spider that will crawl the site. 
+
+Enjoy!
